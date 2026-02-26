@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=0e75b6&center=true&vCenter=true&width=940&lines=Third-Year+Artificial+Intelligence+Student;Future+AI+Engineer;Full-Stack+Developer;ML+Systems+Builder)](https://git.io/typing-svg)
 
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile views](https://komarev.com/ghpvc/?username=LouaiS&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/LouaiSf)
 [![Location](https://img.shields.io/badge/Location-Algiers%2C%20Algeria-27ae60?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 ---
@@ -115,6 +115,20 @@ Features:
 
 ---
 
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LouaiSf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LouaiSf/LouaiSf/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LouaiSf/LouaiSf/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LouaiSf/LouaiSf/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-louai.nasrellah.soufi%40ensia.edu.dz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louai.nasrellah.soufi@ensia.edu.dz)
