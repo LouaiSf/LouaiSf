@@ -1,0 +1,21 @@
+name: Half-Year Calendar
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Updates daily at midnight
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: half-year-calendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Africa/Algiers
