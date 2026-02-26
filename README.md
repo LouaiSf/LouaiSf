@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Louai Soufi
+#  Hi, I'm Louai Soufi
 
-🎓 Third-Year Artificial Intelligence Student  
-💡 AI Engineer | Full-Stack Developer | ML Systems Builder  
-📍 Algiers, Algeria  
+ Third-Year Artificial Intelligence Student  
+ Future AI Engineer | Full-Stack Developer | ML Systems Builder  
+ Algiers, Algeria  
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an AI student passionate about building intelligent systems that solve real-world problems.  
 I combine **machine learning**, **algorithms**, and **full-stack development** to create complete, practical solutions — not just models in notebooks.
@@ -19,34 +19,34 @@ I enjoy:
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
-### 💻 Programming
+###  Programming
 Python · C++ · JavaScript · PHP · Bash · HTML · CSS
 
-### 🤖 Machine Learning
+###  Machine Learning
 Data preprocessing · Feature engineering · Model training · Evaluation · Scikit-learn · NumPy · Pandas
 
-### 🌐 Full-Stack Development
+###  Full-Stack Development
 React · Next.js · Express · Flutter
 
-### 🗄 Databases
+###  Databases
 MySQL · Oracle SQL · Firebase · Supabase
 
-### ⚙ Tools
+###  Tools
 Linux · Git · GitHub · Jupyter Notebook
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### ⚽ Fantasy Premier League Points Prediction System
+###  Fantasy Premier League Points Prediction System
 Machine learning system predicting player FPL performance using historical match data, team context, and performance metrics.  
 Includes data preprocessing, feature engineering, model training, and evaluation pipeline.
 
 ---
 
-### 🤝 AI-Powered Job Matching System
+###  AI-Powered Job Matching System
 AI platform for job–candidate matching using:
 - A* Search
 - Genetic Algorithms
@@ -56,7 +56,7 @@ Focused on optimizing compatibility and intelligent ranking.
 
 ---
 
-### 📱 FootLink — Amateur Football App
+###  FootLink — Amateur Football App
 Flutter-based mobile application that:
 - Connects amateur players
 - Allows match creation and team joining
@@ -65,7 +65,7 @@ Flutter-based mobile application that:
 
 ---
 
-### 🗓 Online Appointment Management System
+###  Online Appointment Management System
 Full-stack web platform built with:
 - React / Next.js frontend
 - Express backend
@@ -78,7 +78,7 @@ Features:
 
 ---
 
-## 🧠 What I Focus On
+##  What I Focus On
 
 - Building complete AI systems, not just models
 - Writing structured, maintainable code
@@ -87,7 +87,7 @@ Features:
 
 ---
 
-## 📈 Currently Improving
+##  Currently Improving
 
 - Advanced ML system design
 - Backend architecture patterns
@@ -96,10 +96,10 @@ Features:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-📧 louai.nasrellah.soufi@ensia.edu.dz  
-🔗 LinkedIn: www.linkedin.com/in/louai-nasrellah-soufi-8940a1298  
+ louai.nasrellah.soufi@ensia.edu.dz  
+ LinkedIn: www.linkedin.com/in/louai-nasrellah-soufi-8940a1298  
 
 ---
 
